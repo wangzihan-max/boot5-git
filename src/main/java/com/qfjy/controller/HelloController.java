@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/info")
     public  String info(){
-        return "hello spring boot info 项目经理";
+        return "hello spring boot info 项目经理123";
     }
     //开发人员写了一句话
 }
