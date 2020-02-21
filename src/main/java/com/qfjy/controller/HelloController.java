@@ -10,4 +10,5 @@ public class HelloController {
     public  String info(){
         return "hello spring boot info";
     }
+    //开发人员写了一句话
 }
